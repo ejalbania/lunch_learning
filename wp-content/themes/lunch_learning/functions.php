@@ -5,4 +5,11 @@ function lunchLearning_resources(){
 }
 
 add_action('wp_enqueue_scripts', 'lunchLearning_resources');
+
+// Navigation Menu
+register_nav_menus(array(
+		'primary' => __("Header MenuBar"),
+		'footer' => __("Footer MenuBar")
+	));
+
  ?>
