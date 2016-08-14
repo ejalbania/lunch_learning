@@ -15,9 +15,4 @@
 </body>
 </html>
 
-<<<<<<< HEAD
-<!-- Trial for Sample -->
-=======
->>>>>>> 073eb0c06f431eeb5826e4be3046a77a41a00733
-
-<!-- Trial Xian --!>
+<!-- Visible by carla -->
